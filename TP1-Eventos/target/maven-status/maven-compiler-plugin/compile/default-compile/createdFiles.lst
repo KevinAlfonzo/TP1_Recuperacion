@@ -1,0 +1,12 @@
+pe\edu\vallegrande\proyecto\model\PonentesModel.class
+pe\edu\vallegrande\proyecto\service\impl\CrudParticipantsService.class
+pe\edu\vallegrande\proyecto\controller\SecurityController.class
+pe\edu\vallegrande\proyecto\db\AccesoDB.class
+pe\edu\vallegrande\proyecto\service\spec\CrudServiceSpec.class
+pe\edu\vallegrande\proyecto\model\ParticipantsModel.class
+pe\edu\vallegrande\proyecto\prueba\Login.class
+pe\edu\vallegrande\proyecto\service\impl\CrudEventService.class
+pe\edu\vallegrande\proyecto\service\impl\CrudPonentesService.class
+pe\edu\vallegrande\proyecto\service\impl\CrudParticipationRegistrationService.class
+pe\edu\vallegrande\proyecto\service\spec\SeguridadServiceSpec.class
+pe\edu\vallegrande\proyecto\model\ParticipationRegistrationModel.class
